@@ -1,0 +1,26 @@
+  {
+  "name": "Support-Bot-js",
+  "version": "1.0.0",
+  "repository": "https://github.com/cjdaboss009/Support-Bot-js",
+  "description": "A simple discord music bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot"
+  ],
+  "author": "Cody",
+  "license": "MIT",
+  "dependencies": {
+        "express": "^4.17.1",
+    "discord.js": "^12.4.1",
+    "quick.db": "^7.1.2"
+  }
+}
+
+
+
+   
