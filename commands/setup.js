@@ -5,7 +5,7 @@ message.channel.send("Setting up logs.");
 guild.channel.find("logs");
 else { message.channel.send("Couldn't find a log channel.");
       if guild.channel.find("logs");
-      console.log("");
+      console.log("Created");
       {(;
         else { message.reply("Please retry setting up");   
       message.reply("All done!");
